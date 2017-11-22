@@ -1,0 +1,7 @@
+2017-11-21 20:13:46
+版本: 2.1 (build 922)
+编译于: May 9, 2003
+Object class: TFrmMain
+对象名称: FrmMain
+无效图像列表
+
